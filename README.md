@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-My name is Anjana and I'm learning how to use GitHub.
+My name is Anjana and I'm learning how to use GitHub for the first time.
